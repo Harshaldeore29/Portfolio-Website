@@ -1,0 +1,32 @@
+[{
+  "name": "Currency Converter",
+  "desc": "This website compares the currencies of given countries and gives a value of currencies.",
+  "image": "currency",
+  "category": "basicweb",
+  "links": {
+    "view": "https://hdcurrency.netlify.app/",
+    "code": "#"
+  }
+},
+  {
+    "name": "Elimination Of Object Shadow",
+    "desc": "Shadow can significantly alter the appearance of object, resulting in erroneous interpretations. To resolve this issue my project is useful.",
+    "image": "shadow",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "port",
+    "category": "basicweb",
+    "links": {
+      "view": "https://harshaldeoreportfolio.netlify.app/",
+      "code": ""
+    }
+  }
+  
+]
