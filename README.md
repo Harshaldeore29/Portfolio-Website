@@ -8,4 +8,4 @@ This is a personal portfolio website built using HTML5, CSS3, JavaScript, and jQ
 Particle.js, Tilt.js, Scroll Reveal, Font Awesome and JSON
 
 ## Contact
-For any inquiries or feedback, you can reach me at deoreharshal711@example.com
+For any inquiries or feedback, you can reach me at deoreharshal711@gmail.com
